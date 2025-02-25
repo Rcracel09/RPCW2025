@@ -1,0 +1,165 @@
+@prefix : <http://www.semanticweb.org/user/ontologies/2025/1/EMD#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/user/ontologies/2025/1/EMD> .
+
+<http://www.semanticweb.org/user/ontologies/2025/1/EMD> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#pratica
+:pratica rdf:type owl:ObjectProperty ;
+         owl:inverseOf :éPraticadaPor ;
+         rdfs:domain :Pessoa ;
+         rdfs:range :Modalidade .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#realiza
+:realiza rdf:type owl:ObjectProperty ;
+         owl:inverseOf :éRealizadoPor ;
+         rdfs:domain :Pessoa ;
+         rdfs:range :Exame .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#relativoA
+:relativoA rdf:type owl:ObjectProperty ;
+           owl:inverseOf :temExame ;
+           rdfs:domain :Exame ;
+           rdfs:range :Modalidade .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#temAtleta
+:temAtleta rdf:type owl:ObjectProperty ;
+           owl:inverseOf :éAtletaDe .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#temExame
+:temExame rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#temModalidade
+:temModalidade rdf:type owl:ObjectProperty ;
+               owl:inverseOf :éPraticadoEm ;
+               rdfs:domain :Clube ;
+               rdfs:range :Modalidade .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#éAtletaDe
+:éAtletaDe rdf:type owl:ObjectProperty ;
+           rdfs:domain :Pessoa ;
+           rdfs:range :Clube .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#éPraticadaPor
+:éPraticadaPor rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#éPraticadoEm
+:éPraticadoEm rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#éRealizadoPor
+:éRealizadoPor rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#dataEMD
+:dataEMD rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#email
+:email rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#genero
+:genero rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#idade
+:idade rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#morada
+:morada rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#nome
+:nome rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#resultado
+:resultado rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#Clube
+:Clube rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#Exame
+:Exame rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#Modalidade
+:Modalidade rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#Pessoa
+:Pessoa rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#C1
+:C1 rdf:type owl:NamedIndividual ,
+             :Clube ;
+    :temAtleta :P1 ;
+    :temModalidade :M1 ;
+    :nome "GDGoma" .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#E1
+:E1 rdf:type owl:NamedIndividual ,
+             :Exame ;
+    :relativoA :M1 ;
+    :éRealizadoPor :P1 ;
+    :dataEMD "2020-07-27" ;
+    :resultado "true"^^xsd:boolean .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#M1
+:M1 rdf:type owl:NamedIndividual ,
+             :Modalidade ;
+    :temExame :E1 ;
+    :éPraticadaPor :P1 ;
+    :éPraticadoEm :C1 ;
+    :nome "futebol" .
+
+
+###  http://www.semanticweb.org/user/ontologies/2025/1/EMD#P1
+:P1 rdf:type owl:NamedIndividual ,
+             :Pessoa ;
+    :pratica :M1 ;
+    :realiza :E1 ;
+    :éAtletaDe :C1 ;
+    :email "emily.terrell@gdgoma.org" ;
+    :genero "F" ;
+    :idade 28 ;
+    :morada "Clay" ;
+    :nome "Emily Terrell" .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
