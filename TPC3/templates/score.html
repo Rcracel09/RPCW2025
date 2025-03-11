@@ -2,11 +2,57 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Final Score</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 500px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: auto;
+        }
+        h1 {
+            color: #007BFF;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        .score {
+            font-size: 2em;
+            font-weight: bold;
+            color: #28a745;
+            margin: 10px 0;
+        }
+        a {
+            display: inline-block;
+            background: #007BFF;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 1.1em;
+            margin-top: 15px;
+        }
+        a:hover {
+            background: #0056b3;
+        }
+    </style>
 </head>
 <body>
-    <h1>Quiz Completed!</h1>
-    <p>Your final score is: <strong>{{ score }}</strong></p>
-    <a href="/">Restart Quiz</a>
+    <div class="container">
+        <h1>Quiz Completed!</h1>
+        <p>Your final score is:</p>
+        <p class="score">{{ score }}</p>
+        <a href="/">Restart Quiz</a>
+    </div>
 </body>
 </html>
