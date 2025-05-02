@@ -1,0 +1,568 @@
+[
+  {
+    "id": "http://dbpedia.org/resource/Cadet_Kelly",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Romance film",
+      "Comedy film",
+      "Teen film"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/Sarah_Gadon",
+        "nome": "Sarah Gadon",
+        "dataNasc": "1987-04-04",
+        "origem": "Ontario"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Sarah_Gadon",
+        "nome": "Sarah Gadon",
+        "dataNasc": "1987-04-04",
+        "origem": "Toronto"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Christy_Carlson_Romano",
+        "nome": "Christy Carlson Romano",
+        "dataNasc": "1984-03-20",
+        "origem": "Milford, Connecticut"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Andrea_Lewis",
+        "nome": "Andrea Lewis",
+        "dataNasc": "1985-08-15",
+        "origem": "Pickering, Ontario"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Linda_Kash",
+        "nome": "Linda Kash",
+        "dataNasc": "1961-01-17",
+        "origem": "Quebec"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Linda_Kash",
+        "nome": "Linda Kash",
+        "dataNasc": "1961-01-17",
+        "origem": "Montreal"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Hilary_Duff",
+        "nome": "Hilary Duff",
+        "dataNasc": "1987-09-28",
+        "origem": "Houston, Texas"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Shawn_Ashmore",
+        "nome": "Shawn Ashmore",
+        "dataNasc": "1979-10-07",
+        "origem": "Richmond, British Columbia"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/Camp_Wilder",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Sitcom"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/Mary_Page_Keller",
+        "nome": "Mary Page Keller",
+        "dataNasc": "1961-03-03",
+        "origem": "Monterey Park, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Tina_Majorino",
+        "nome": "Tina Majorino",
+        "dataNasc": "1985-02-07",
+        "origem": "Los Angeles, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Hilary_Swank",
+        "nome": "Hilary Swank",
+        "dataNasc": "1974-07-30",
+        "origem": "Lincoln, Nebraska"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jay_Mohr",
+        "nome": "Jay Mohr",
+        "dataNasc": "1970-08-23",
+        "origem": "Verona, New Jersey"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "Manhattan"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "New York City"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/Camp_Wilder",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Sitcom"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/Mary_Page_Keller",
+        "nome": "Mary Page Keller",
+        "dataNasc": "1961-03-03",
+        "origem": "Monterey Park, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Tina_Majorino",
+        "nome": "Tina Majorino",
+        "dataNasc": "1985-02-07",
+        "origem": "Los Angeles, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Hilary_Swank",
+        "nome": "Hilary Swank",
+        "dataNasc": "1974-07-30",
+        "origem": "Lincoln, Nebraska"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jay_Mohr",
+        "nome": "Jay Mohr",
+        "dataNasc": "1970-08-23",
+        "origem": "Verona, New Jersey"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "Manhattan"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "New York City"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/Camp_Wilder",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Sitcom"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/Mary_Page_Keller",
+        "nome": "Mary Page Keller",
+        "dataNasc": "1961-03-03",
+        "origem": "Monterey Park, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Tina_Majorino",
+        "nome": "Tina Majorino",
+        "dataNasc": "1985-02-07",
+        "origem": "Los Angeles, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Hilary_Swank",
+        "nome": "Hilary Swank",
+        "dataNasc": "1974-07-30",
+        "origem": "Lincoln, Nebraska"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jay_Mohr",
+        "nome": "Jay Mohr",
+        "dataNasc": "1970-08-23",
+        "origem": "Verona, New Jersey"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "Manhattan"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "New York City"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/Camp_Wilder",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Sitcom"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/Mary_Page_Keller",
+        "nome": "Mary Page Keller",
+        "dataNasc": "1961-03-03",
+        "origem": "Monterey Park, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Tina_Majorino",
+        "nome": "Tina Majorino",
+        "dataNasc": "1985-02-07",
+        "origem": "Los Angeles, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Hilary_Swank",
+        "nome": "Hilary Swank",
+        "dataNasc": "1974-07-30",
+        "origem": "Lincoln, Nebraska"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jay_Mohr",
+        "nome": "Jay Mohr",
+        "dataNasc": "1970-08-23",
+        "origem": "Verona, New Jersey"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "Manhattan"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "New York City"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/Camp_Wilder",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Sitcom"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/Mary_Page_Keller",
+        "nome": "Mary Page Keller",
+        "dataNasc": "1961-03-03",
+        "origem": "Monterey Park, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Tina_Majorino",
+        "nome": "Tina Majorino",
+        "dataNasc": "1985-02-07",
+        "origem": "Los Angeles, California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Hilary_Swank",
+        "nome": "Hilary Swank",
+        "dataNasc": "1974-07-30",
+        "origem": "Lincoln, Nebraska"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jay_Mohr",
+        "nome": "Jay Mohr",
+        "dataNasc": "1970-08-23",
+        "origem": "Verona, New Jersey"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "Manhattan"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jerry_O'Connell",
+        "nome": "Jerry O'Connell",
+        "dataNasc": "1974-02-17",
+        "origem": "New York City"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/Campus_(TV_series)",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Sitcom"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/Sara_Pascoe",
+        "nome": "Sara Pascoe",
+        "dataNasc": "1981-05-22",
+        "origem": "Dagenham"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Sara_Pascoe",
+        "nome": "Sara Pascoe",
+        "dataNasc": "1981-05-22",
+        "origem": "London"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jonathan_Bailey",
+        "nome": "Jonathan Bailey",
+        "dataNasc": "1988-04-25",
+        "origem": "Wallingford, Oxfordshire"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jonathan_Bailey",
+        "nome": "Jonathan Bailey",
+        "dataNasc": "1988-04-25",
+        "origem": "Oxfordshire"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Joseph_Millson",
+        "nome": "Joseph Millson",
+        "dataNasc": "1974-04-27",
+        "origem": "Berkshire"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Joseph_Millson",
+        "nome": "Joseph Millson",
+        "dataNasc": "1974-04-27",
+        "origem": "England"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Andy_Nyman",
+        "nome": "Andy Nyman",
+        "dataNasc": "1966-04-13",
+        "origem": "Leicestershire"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Andy_Nyman",
+        "nome": "Andy Nyman",
+        "dataNasc": "1966-04-13",
+        "origem": "Leicester"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Chizzy_Akudolu",
+        "nome": "Chizzy Akudolu",
+        "dataNasc": "1973-10-07",
+        "origem": "Harlesden"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Katherine_Ryan",
+        "nome": "Katherine Ryan",
+        "dataNasc": "1983-06-30",
+        "origem": "Sarnia, Ontario"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Dolly_Wells",
+        "nome": "Dolly Wells",
+        "dataNasc": "1971-12-05",
+        "origem": "London"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Dolly_Wells",
+        "nome": "Dolly Wells",
+        "dataNasc": "1971-12-05",
+        "origem": "London Borough of Merton"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/Campus_(TV_series)",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Sitcom"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/Sara_Pascoe",
+        "nome": "Sara Pascoe",
+        "dataNasc": "1981-05-22",
+        "origem": "Dagenham"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Sara_Pascoe",
+        "nome": "Sara Pascoe",
+        "dataNasc": "1981-05-22",
+        "origem": "London"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jonathan_Bailey",
+        "nome": "Jonathan Bailey",
+        "dataNasc": "1988-04-25",
+        "origem": "Wallingford, Oxfordshire"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Jonathan_Bailey",
+        "nome": "Jonathan Bailey",
+        "dataNasc": "1988-04-25",
+        "origem": "Oxfordshire"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Joseph_Millson",
+        "nome": "Joseph Millson",
+        "dataNasc": "1974-04-27",
+        "origem": "Berkshire"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Joseph_Millson",
+        "nome": "Joseph Millson",
+        "dataNasc": "1974-04-27",
+        "origem": "England"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Andy_Nyman",
+        "nome": "Andy Nyman",
+        "dataNasc": "1966-04-13",
+        "origem": "Leicestershire"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Andy_Nyman",
+        "nome": "Andy Nyman",
+        "dataNasc": "1966-04-13",
+        "origem": "Leicester"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Chizzy_Akudolu",
+        "nome": "Chizzy Akudolu",
+        "dataNasc": "1973-10-07",
+        "origem": "Harlesden"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Katherine_Ryan",
+        "nome": "Katherine Ryan",
+        "dataNasc": "1983-06-30",
+        "origem": "Sarnia, Ontario"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Dolly_Wells",
+        "nome": "Dolly Wells",
+        "dataNasc": "1971-12-05",
+        "origem": "London"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Dolly_Wells",
+        "nome": "Dolly Wells",
+        "dataNasc": "1971-12-05",
+        "origem": "London Borough of Merton"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/Captain_Barbell_(2011_TV_series)",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Drama (film and television)",
+      "Action genre",
+      "Fantasy"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/Richard_Gutierrez",
+        "nome": "Richard Gutierrez",
+        "dataNasc": "1984-01-21",
+        "origem": "United States"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Richard_Gutierrez",
+        "nome": "Richard Gutierrez",
+        "dataNasc": "1984-01-21",
+        "origem": "California"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Richard_Gutierrez",
+        "nome": "Richard Gutierrez",
+        "dataNasc": "1984-01-21",
+        "origem": "Beverly Hills"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/Capturing_Mary",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Drama"
+    ],
+    "elenco": [
+      {
+        "id": "http://dbpedia.org/resource/David_Walliams",
+        "nome": "David Walliams",
+        "dataNasc": "1971-08-20",
+        "origem": "Wimbledon, London"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Maggie_Smith",
+        "nome": "Maggie Smith",
+        "dataNasc": "1934-12-28",
+        "origem": "Essex"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Maggie_Smith",
+        "nome": "Maggie Smith",
+        "dataNasc": "1934-12-28",
+        "origem": "Ilford"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Danny_Lee_Wynter",
+        "nome": "Danny Lee Wynter",
+        "dataNasc": "1982-05-25",
+        "origem": "Barking, London"
+      },
+      {
+        "id": "http://dbpedia.org/resource/Danny_Lee_Wynter",
+        "nome": "Danny Lee Wynter",
+        "dataNasc": "1982-05-25",
+        "origem": "London"
+      }
+    ]
+  },
+  {
+    "id": "http://dbpedia.org/resource/CarniK_Con",
+    "titulo": "Cadet Kelly",
+    "pais": "United States",
+    "dataLancamento": "2002-03-08",
+    "realizador": "Larry Shaw (director)",
+    "abstract": "Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff and Christy Carlson Romano. The film premiered with 7.8 million viewers. It is Duff's second starring film role, her first being Casper Meets Wendy. This was Disney Channel's second film filmed in Canada.",
+    "genero": [
+      "Comedy"
+    ],
+    "elenco": []
+  }
+]
